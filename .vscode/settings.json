@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "string": "c",
+        "iosfwd": "c",
+        "tty.h": "c",
+        "__config": "c",
+        "__string": "c",
+        "atomic": "c",
+        "chrono": "c",
+        "compare": "c",
+        "concepts": "c",
+        "cstdio": "c",
+        "ctime": "c",
+        "functional": "c",
+        "ios": "c",
+        "memory": "c",
+        "type_traits": "c",
+        "variant": "c",
+        "*.inc": "c",
+        "string.h": "c",
+        "stdio.h": "c",
+        "stdarg.h": "c"
+    }
+}
